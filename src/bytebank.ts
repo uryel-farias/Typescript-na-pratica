@@ -1,4 +1,5 @@
-let saldo = 3000;
+let saldo = 33000;
+
 
 const elementoSaldo = document.querySelector(" .saldo-valor .valor ") as HTMLElement;
 if(elementoSaldo !== null ) {
